@@ -1,0 +1,19 @@
+.spinnerComponent {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Adjust as needed */
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background */
+}
+
+.spinnerContainer {
+    border: 2px solid #007bff; /* Border around the spinner */
+    border-radius: 50%; /* Rounded border */
+    padding: 20px; /* Padding around the spinner */
+}
+
+.spinnerComponent .spinner-border {
+    width: 3rem; /* Adjust spinner size */
+    height: 3rem; /* Adjust spinner size */
+    color: #007bff; /* Adjust spinner color */
+}

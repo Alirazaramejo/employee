@@ -1,0 +1,37 @@
+/* FormComponent.css */
+
+/* Container styles */
+.form-container {
+    padding: 20px;
+    background-color: #f7f7f7;
+  }
+  
+  /* Label styles */
+  .ant-form-item-label {
+    font-weight: bold;
+  }
+  
+  /* Input field styles */
+  .ant-input {
+    width: 100%;
+  }
+  
+  /* Error message styles */
+  .error-message {
+    color: red;
+  }
+  
+  /* Button styles */
+  .button-wrapper {
+    margin-top: 20px;
+    text-align: right;
+  }
+  
+  /* Modal styles */
+  .modal-wrapper {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+  }
+  
